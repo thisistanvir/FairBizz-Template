@@ -1,0 +1,267 @@
+/* Normal desktop :1200px. */
+@media only screen and (min-width: 1200px) and (max-width: 1366px) {
+    .container {
+        max-width: 1140px;
+    }
+    .slider-active .slick-arrow {
+        left: 3%;
+    }
+    .slider-active .slick-next.slick-arrow {
+        left: auto;
+        right: 3%;
+    }
+   
+
+}
+
+
+/* Normal desktop :992px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .theme-bg {
+        padding: 0 10px;
+    }
+    .main-menu li {
+        margin-right: 25px;
+    }
+    .single-service-item img {
+        height: 250px;
+    }
+    .single-case-item h4 {
+        font-size: 19px;
+    }
+    .testimonial-form {
+        padding: 100px 75px;
+    }
+    .faq-bg img {
+        height: 550px;
+        margin-left: -30px;
+    }
+    .blog-thumb img {
+        width: 200px;
+        height: 200px;
+    }
+    .blog-content {
+        padding-left: 230px;
+    }
+    .blog-btn .read-more-btn {
+        margin-top: 40px;
+    }
+    .single-blog-item {
+        height: 200px;
+    }
+    .social-links a {
+        margin-left: 17px;
+    }
+    .slider-active .slick-arrow {
+        left: 3%;
+    }
+    .slider-active .slick-next.slick-arrow {
+        left: auto;
+        right: 3%;
+    }
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media only screen and (max-width: 991px) {
+    .slider-active .slick-arrow {
+        left: 3%;
+    }
+    .slider-active .slick-next.slick-arrow {
+        left: auto;
+        right: 3%;
+    }
+    .menu-area.sticky {
+        background: #fff;
+        border-bottom: 3px solid #007bff;
+    }
+    .header-wrapper .theme-bg {
+        background: #ffffff;
+        padding: 15px 10px;
+    }
+    .site-logo {
+        margin-top: 0;
+    }
+    .slider-content h1 {
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+    .slider-content p {
+        font-size: 13px;
+        line-height: 1.3;
+    }
+    .slider-active .slick-arrow {
+        font-size: 12px;
+    }
+    .slider-active .slick-arrow i {
+        right: -30px;
+    }
+    .slider-active .slick-next.slick-arrow i {
+        left: -30px;
+    }
+    .single-slider {
+        min-height: 610px;
+    }
+    .section-title h2 {
+        font-size: 30px;
+    }
+    .about-area .section-title {
+        margin-bottom: 30px;
+    }
+    .about-content {
+        padding-bottom: 50px;
+    }
+    
+    .single-feature {
+        margin-bottom: 40px;
+    }
+    .about-area {
+        padding: 50px 0;
+    }
+    .cta-area {
+        padding: 150px 0;
+    }
+    .case-area {
+        padding: 50px 0;
+    }
+    .testimonial-carousel {
+        padding: 50px 0 70px;
+    }
+    .testimonial-carousel .slick-arrow {
+        bottom: 25px;
+    }
+    .testimonial-form {
+        padding: 30px 20px;
+        margin-top: 0;
+        margin-bottom: 50px;
+    }
+    .form-element input, .form-element textarea {
+        padding: 13px 20px;
+        margin-bottom: 20px;
+    }
+    .form-element .nice-select {
+        height: 51px;
+        line-height: 51px;
+        margin-bottom: 20px;
+    }
+    .form-element textarea {
+        height: 150px;
+    }
+    .btn.submit-btn {
+        padding: 16px 60px;
+    }
+    .section-title {
+        margin-bottom: 40px;
+    }
+    .single-blog-item {
+        margin-bottom: 30px;
+    }
+    .blog-area {
+        padding: 50px 0;
+    }
+    .footer-widget {
+        margin-bottom: 40px;
+    }
+    
+    .footer-area {
+        padding-top: 50px;
+    }
+    
+    .footer-log img {
+        margin-bottom: 20px;
+    }
+    
+    .copyright-area {
+        margin-top: 20px;
+    }
+    
+    .widget-heading h4 {
+        margin-bottom: 20px;
+    }
+    .copyright-text {
+        margin-bottom: 20px;
+    }
+    .footer-content p {
+        margin-bottom: 20px;
+    }
+
+
+}
+/* small mobile :320px. */
+@media only screen and (max-width: 767px) {
+    .slider-active .slick-arrow {
+        left: 0;
+    }
+    .slider-active .slick-next.slick-arrow {
+        left: auto;
+        right: 0;
+    }
+    .slider-content h1 {
+        font-size: 20px;
+    }
+    .slider-content p {
+        font-size: 12px;
+        margin-bottom: 20px;
+    }
+    .about-area .section-title p {
+        font-size: 20px;
+    }
+    .single-feature p {
+        font-size: 12px;
+    }
+    .section-title p {
+        font-size: 14px;
+    }
+    .service-carousel.owl-carousel .owl-nav {
+        bottom: -70px;
+    }
+    .cta-content h2 {
+        font-size: 34px;
+        line-height: 1.3;
+    }
+    .cta-button a.btn.contact-btn {
+        display: block;
+        margin-right: 0;
+        margin-bottom: 35px;
+    }
+    .cta-area {
+        padding: 100px 0;
+    }
+    .section-title h2 {
+        font-size: 29px;
+    }
+    .testimonial-content p {
+        font-size: 20px;
+    }
+    .testimonial-area {
+        margin-bottom: 50px;
+    }
+    #accordion .card-header h6 {
+        font-size: 14px;
+    }
+    .blog-thumb img {
+        width: 100%;
+    }
+    .blog-content {
+        padding-left: 0;
+        float: left;
+        height: auto;
+    }
+    .blog-btn .read-more-btn {
+        margin-top: 30px;
+    }
+    .single-blog-item {
+        background: none;
+        width: 100%;
+        height: 100%;
+        display: inline-block;
+    }
+ 
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ 
+}
