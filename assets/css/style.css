@@ -1169,3 +1169,18 @@
     font-size: 15px;
 }
 /* End Footer Area */
+/* Start ScrollUp */
+#scrollUp {
+    background: #007bff;
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    right: 30px;
+    bottom: 30px;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    font-size: 25px;
+    color: #fff;
+}
+/* End ScrollUp */
