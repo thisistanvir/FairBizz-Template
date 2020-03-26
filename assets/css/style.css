@@ -417,7 +417,7 @@
 
 .main-menu li {
     display: inline-block;
-    margin-right: 40px;
+    margin-right: 36px;
 }
 .main-menu li:last-child {
     margin-right: 0;
